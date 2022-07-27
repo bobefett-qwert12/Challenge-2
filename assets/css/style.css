@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+nav {
+    text-align: right;
+}
+
+nav:hover {
+    color: red;
+}
