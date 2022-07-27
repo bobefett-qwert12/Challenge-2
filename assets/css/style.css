@@ -1,12 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: aquamarine;
+}
+
 header {
     text-align: center;
-    background-color: aquamarine;
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }
 
 nav {
     text-align: right;
 }
 
-nav:hover {
-    color: red;
+nav a:hover {
+    color: lightblue;
+    background-color: blueviolet;
 }
