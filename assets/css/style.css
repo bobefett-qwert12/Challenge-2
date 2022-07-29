@@ -46,7 +46,7 @@ section{
     position: relative;
     width: 80%;
     height: 15%;
-    float: left;
+    float: right;
 }
 
 section p{
@@ -74,7 +74,7 @@ figure {
     justify-content: center;
     text-align: center;
     position: relative;
-    width: 40%;
+    width: 100%;
 }
 
 figure img{
@@ -88,6 +88,8 @@ figcaption{
     position: absolute;
     bottom: 40px;
     left: 40px;
+    font-size: 18px;
+    color: white;
 }
 
 .box{
@@ -108,7 +110,7 @@ figure:hover .box{
 }
 
 .language{
-    font-size: 12px;
+    font-size: 14px;
     bottom: 25px;
 }
 
@@ -154,4 +156,8 @@ footer p:hover {
 
 #contact{
     height: min-content;
+}
+
+.one{
+    width: 40%;
 }
