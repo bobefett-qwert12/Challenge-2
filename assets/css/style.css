@@ -49,13 +49,8 @@ section{
     float: right;
 }
 
-section p{
+#aboutMe{
     display: block;
-    position: absolute;
-}
-
-#lower{
-    top: 20px;
 }
 
 aside{
